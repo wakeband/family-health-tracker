@@ -1,6 +1,10 @@
 ---
 name: family-health-tracker
+version: 1.0.0
 description: Track medications, allergies, doctor visits, immunizations, insurance, prescriptions, and health records for your whole family. Smart reminders for checkups, refills, and immunization schedules. All data stored locally. Use when anyone mentions a doctor visit, medication, allergy, vaccine, prescription, or health record.
+metadata:
+  openclaw:
+    emoji: 🏥
 ---
 
 # Family Health Tracker
